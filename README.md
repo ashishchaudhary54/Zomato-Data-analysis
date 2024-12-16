@@ -9,9 +9,8 @@ Pandas– The library simplifies the loading of data frames into 2D arrays and p
 
 Seaborn– It offers a high-level interface for creating visually appealing and informative statistical graphics. 
 
-You can use Google Colab Notebook or Jupyter Notebook to simplify your task.
 
-To address our analysis, we need to respond to the subsequent inquiries:
+To address analysis, we need to respond to the subsequent inquiries:
 
 Do a greater number of restaurants provide online delivery as opposed to offline services?
 Which types of restaurants are the most favored by the general public?
